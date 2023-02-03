@@ -1,4 +1,4 @@
-### __*Olá Pessoal! Sejam Ben-vindos Ao Meu Github!*__  there 👋
+### __*Olá! Sejam Ben-vindos Ao Meu Github!*__  there 👋
 
 <!--
 **LeandroKastilho/leandrokastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
